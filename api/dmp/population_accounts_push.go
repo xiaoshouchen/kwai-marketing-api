@@ -1,8 +1,8 @@
 package dmp
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/dmp"
+	"github.com/xiaoshouchen/kwai-marketing-api/core"
+	"github.com/xiaoshouchen/kwai-marketing-api/model/dmp"
 )
 
 // PopulationAccountsPush 人群包跨账户推送

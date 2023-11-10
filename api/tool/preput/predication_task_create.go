@@ -1,8 +1,8 @@
 package preput
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/tool/preput"
+	"github.com/xiaoshouchen/kwai-marketing-api/core"
+	"github.com/xiaoshouchen/kwai-marketing-api/model/tool/preput"
 )
 
 // PredicationTaskCreate 创建投前预估任务

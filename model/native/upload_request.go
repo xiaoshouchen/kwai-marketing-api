@@ -1,7 +1,7 @@
 package native
 
 import (
-	"github.com/bububa/kwai-marketing-api/model"
+	"github.com/xiaoshouchen/kwai-marketing-api/model"
 	"strconv"
 )
 

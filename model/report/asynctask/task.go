@@ -1,6 +1,6 @@
 package asynctask
 
-import "github.com/bububa/kwai-marketing-api/model"
+import "github.com/xiaoshouchen/kwai-marketing-api/model"
 
 // TaskParams 任务参数
 type TaskParams struct {

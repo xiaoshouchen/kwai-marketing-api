@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/bububa/kwai-marketing-api/core/internal/debug"
-	"github.com/bububa/kwai-marketing-api/model"
+	"github.com/xiaoshouchen/kwai-marketing-api/core/internal/debug"
+	"github.com/xiaoshouchen/kwai-marketing-api/model"
 )
 
 // SDKClient api client

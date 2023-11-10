@@ -1,8 +1,8 @@
 package creative
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/v2.2/creative"
+	"github.com/xiaoshouchen/kwai-marketing-api/core"
+	"github.com/xiaoshouchen/kwai-marketing-api/model/v2.2/creative"
 )
 
 // AdvancedCreativeList 查询程序化广告创意

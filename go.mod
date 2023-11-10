@@ -1,5 +1,3 @@
-module github.com/bububa/kwai-marketing-api
+module github.com/xiaoshouchen/kwai-marketing-api
 
 go 1.19
-
-

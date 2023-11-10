@@ -1,8 +1,8 @@
 package report
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/report"
+	"github.com/xiaoshouchen/kwai-marketing-api/core"
+	"github.com/xiaoshouchen/kwai-marketing-api/model/report"
 )
 
 // UnitReport 广告组数据

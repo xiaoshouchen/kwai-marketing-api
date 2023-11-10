@@ -1,8 +1,8 @@
 package live
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/live"
+	"github.com/xiaoshouchen/kwai-marketing-api/core"
+	"github.com/xiaoshouchen/kwai-marketing-api/model/live"
 )
 
 // ListLiveUser 获取主播列表

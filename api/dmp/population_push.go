@@ -1,8 +1,8 @@
 package dmp
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/dmp"
+	"github.com/xiaoshouchen/kwai-marketing-api/core"
+	"github.com/xiaoshouchen/kwai-marketing-api/model/dmp"
 )
 
 // PopulationPush 人群包上线接口

@@ -1,8 +1,8 @@
 package asset
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/asset"
+	"github.com/xiaoshouchen/kwai-marketing-api/core"
+	"github.com/xiaoshouchen/kwai-marketing-api/model/asset"
 )
 
 // AdvCardList 获取高级创意列表
