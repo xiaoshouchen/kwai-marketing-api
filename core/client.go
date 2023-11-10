@@ -86,6 +86,9 @@ func (c *SDKClient) Post(accessToken string, req model.PostRequest, resp interfa
 			if err != nil {
 				return err
 			}
+			if v.Code != 0 {
+				return v
+			}
 		} else {
 			resp = reqResp
 		}
